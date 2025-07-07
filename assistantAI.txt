@@ -1,2 +1,2 @@
 hi <end/>
-Hello, how can I assist you today? <end/>
+Hello, how may I assist you today? <end/>
