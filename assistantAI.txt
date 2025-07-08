@@ -1,2 +1,2 @@
-hi <end>
-Hello, how may I assist you today? <end>
+<input> hi <input/>
+<output> Hello, how may I assist you today? <output/>
