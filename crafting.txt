@@ -1,2 +1,2 @@
-plank:
-[log]
+oak_plank:
+[oak_log]
