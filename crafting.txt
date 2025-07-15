@@ -1,1 +1,2 @@
 plank:
+[log]
