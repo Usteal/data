@@ -1,5 +1,5 @@
 oak_plank:
-        [oak_log]
+        [oak_log],
 oak_wood:
-        [oak_log, oak_log]
-        [oak_log, oak_log]
+        [oak_log, oak_log],
+        [oak_log, oak_log],
